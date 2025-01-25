@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rohan  
+Welcome to my GitHub corner! 🌟  
 
-<!--
-**rohankakade1096/rohankakade1096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📝 About Me  
+🎓 Data Analyst  
+🔍 Passionate about turning data into insights using SQL, Excel, and Power BI.  
+🌱 Currently learning Azure and Snowflake to enhance my skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 My Projects  
+- **[Excel Sales Analytics](https://github.com/rohankakade1096/Excel-Sales-Analytics)**  
+
+---
+
+## 📫 Reach Out to Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rohan-kakade/)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohankakade1096&color=blue)
