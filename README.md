@@ -5,7 +5,7 @@ Welcome to my GitHub corner! 🌟
 
 ## 📝 About Me  
 🎓 Data Analyst  
-🔍 Passionate about turning data into insights using SQL, Excel, and Power BI.  
+🔍 Passionate about turning data into insights using SQL, Excel and Power BI.  
 🌱 Currently learning Azure and Snowflake to enhance my skills.  
 
 ---
