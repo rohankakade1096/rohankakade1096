@@ -13,6 +13,7 @@ Welcome to my GitHub corner! 🌟
 ## 💼 My Projects  
 - **[Excel Sales Analytics](https://github.com/rohankakade1096/Excel-Sales-Analytics)** 
 - **[AtliQ Business Insights 360](https://github.com/rohankakade1096/Business-Insights-360)**  
+- **[Trade idea risk Mitigation](https://github.com/rohankakade1096/trade-idea-risk-mitigation)**  
 
 ---
 
