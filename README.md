@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Rohan  
-Welcome to my GitHub corner! 🌟  
+Welcome to my GitHub corner 🌟  
 
 ---
 
