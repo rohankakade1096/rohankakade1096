@@ -15,6 +15,7 @@ Welcome to my GitHub corner 🌟
 - **[AtliQ Business Insights 360](https://github.com/rohankakade1096/Business-Insights-360)**  
 - **[Trade idea risk Mitigation](https://github.com/rohankakade1096/trade-idea-risk-mitigation)**  
 - **[Hospitality Revenue Analysis](https://github.com/rohankakade1096/Data-Driven-Revenue-Insights-for-the-Hospitality-Industry)**  
+- **[Consumer-Goods](https://github.com/rohankakade1096/Consumer-Goods)**
 
 ---
 
