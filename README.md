@@ -21,7 +21,7 @@ Welcome to my GitHub corner 🌟
 
 ## 📫 Reach Out to Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rohan-kakade/)  
-
+- 🌐 [Portfolio](https://codebasics.io/portfolio/Rohan-Kakade)
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohankakade1096&color=blue)
