@@ -16,6 +16,7 @@ Welcome to my GitHub corner 🌟
 - **[Trade idea risk Mitigation](https://github.com/rohankakade1096/trade-idea-risk-mitigation)**  
 - **[Hospitality Revenue Analysis](https://github.com/rohankakade1096/Data-Driven-Revenue-Insights-for-the-Hospitality-Industry)**  
 - **[Consumer-Goods](https://github.com/rohankakade1096/Consumer-Goods)**
+- **[Wavecon 5G Impact Analysis](https://github.com/rohankakade1096/Wavecon_5G_Analysis)**
 
 ---
 
